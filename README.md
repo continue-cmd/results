@@ -1,2 +1,2 @@
 # results
-Revisiting Reweighted Graph Total Variation Blind Deconvolution and Beyond (The Viusal Computer, 2023)的实验结果
+Revisiting Reweighted Graph Total Variation Blind Deconvolution and Beyond (The Visual Computer, 2023)
